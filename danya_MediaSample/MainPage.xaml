@@ -10,5 +10,6 @@
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
         <TextBlock x:Name="txt_Date" HorizontalAlignment="Center" VerticalAlignment="Center" FontFamily="Segoe WP" FontSize="32"/>
         <MediaElement x:Name="Media" AutoPlay="True"/>
+        
     </Grid>
 </Page>
