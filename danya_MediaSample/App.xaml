@@ -1,0 +1,8 @@
+﻿<Application
+    x:Class="danya_MediaSample.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:danya_MediaSample"
+    RequestedTheme="Light">
+
+</Application>
