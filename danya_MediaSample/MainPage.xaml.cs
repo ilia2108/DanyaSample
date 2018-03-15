@@ -41,6 +41,7 @@ namespace danya_MediaSample
                 StorageFile sf = await Folder.GetFileAsync("SampleMedia.mp3");
                 Media.SetSource(await sf.OpenAsync(FileAccessMode.Read), sf.ContentType);
                 Media.Play();
+                
             }
         }
     }
